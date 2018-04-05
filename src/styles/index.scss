@@ -1,0 +1,20 @@
+
+/**
+ * 引入文件说明
+ *
+ * SETTING
+ * http://at.alicdn.com/t/font_384243_sib2ke4swj4z33di.css....................阿里巴巴在线图标库(开发阶段使用在线库)
+ * variables....................变量存储文件
+ * mixins.......................混合宏存储文件
+ * common.......................常用的小段css文件
+ * font.......................字体文件
+ * layout.......................布局文件
+ * uiElement.......................覆盖uiElement组件样式
+ *
+*/
+
+// @import url('http://at.alicdn.com/t/font_384243_cveux04u12dtpgb9.css');
+@import 'variables.scss';
+@import 'mixins.scss';
+@import 'common.scss';
+@import 'layout.scss';
